@@ -9,5 +9,5 @@ import lombok.Data;
 @Builder
 public class Piste {
     private final String name;
-    private final List<Node> nodes;
+    private final List<Segment> segments;
 }
