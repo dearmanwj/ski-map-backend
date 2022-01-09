@@ -1,4 +1,4 @@
-package com.dearmanwj.skimapbackend.Interpolator;
+package com.dearmanwj.skimapbackend.interpolator;
 
 import java.util.Set;
 import java.util.function.BiConsumer;

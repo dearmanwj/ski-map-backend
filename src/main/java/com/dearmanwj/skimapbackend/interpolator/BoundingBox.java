@@ -1,6 +1,4 @@
-package com.dearmanwj.skimapbackend.Interpolator;
-
-import java.util.ArrayList;
+package com.dearmanwj.skimapbackend.interpolator;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
